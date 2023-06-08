@@ -1,4 +1,4 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastabe&count_private=true&card_width=450&cache_seconds=7200&show_icons=true&theme=dracula&hide=issues,stars&custom_title=anastabe%27s%20GitHub%20Stats)](https://github.com/anastabe/anastabe)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anastabe&theme=transparent&hide_border=true&exclude_days=Sun%2CSat&card_width=420)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goudbes&card_width=400&layout=compact&langs_count=6&theme=dracula)](https://github.com/goudbes)
